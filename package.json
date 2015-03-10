@@ -1,15 +1,27 @@
 {
   "name": "twitch-cli",
-
-  "version": "1.0.0",
-
+  "version": "0.1.0",
   "description": "",
+  "author": {
+    "name": "Alexander Zizzo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/elzii/twitch-cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/elzii/twitch-cli/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ],
 
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
 
-  "author": "",
 
   "license": "ISC",
 
