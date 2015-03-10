@@ -1,0 +1,31 @@
+{
+  "name": "twitch-cli",
+
+  "version": "1.0.0",
+
+  "description": "",
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+
+  "author": "",
+
+  "license": "ISC",
+
+  "dependencies": {
+    "request": "*",
+    "chalk": "*",
+    "inquirer": "*",
+    "commander": "^2.3.0",
+    "content-disposition": "^0.3.0"
+  },
+
+  "bin" : {
+    "twitch" : "bin/twitch"
+  },
+
+  "engines": {
+    "node": ">= 0.8.0"
+  }
+}
