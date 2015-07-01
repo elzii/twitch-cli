@@ -13,3 +13,7 @@ CLI to search twitch channels/games and stream them to vlc via livestreamer
 ### usage
 
 `twitch`
+
+### screenshot
+
+![Twitch CLI](https://i.imgur.com/U3Zs5Rz.png)
