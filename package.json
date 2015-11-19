@@ -17,25 +17,22 @@
       "type": "MIT"
     }
   ],
-
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-
   "license": "ISC",
-
   "dependencies": {
-    "request": "*",
     "chalk": "*",
-    "inquirer": "*",
     "commander": "^2.3.0",
-    "content-disposition": "^0.3.0"
+    "content-disposition": "^0.3.0",
+    "inquirer": "*",
+    "request": "*",
+    "request-promise": "^1.0.2",
+    "twitch-irc": "^1.2.7"
   },
-
-  "bin" : {
-    "twitch" : "bin/twitch"
+  "bin": {
+    "twitch": "bin/twitch"
   },
-
   "engines": {
     "node": ">= 0.8.0"
   }
