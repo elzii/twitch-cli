@@ -1,3 +1,5 @@
+**DEPRECATION WARNING**: Twitch's API requires auth now, I have not updated this to work with it. Try out [streamlink](https://github.com/streamlink/streamlink)
+
 # twitch-cli
 
 CLI to search twitch channels/games and stream them to vlc via livestreamer
